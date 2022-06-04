@@ -1,5 +1,4 @@
-### Hi there 👋 
-
+### Hi there 👋 i am @Anastasia1I and i'm QA Automation Engineer coding in Python, JavaScript and a bit of Java 
 <!--
 **Anastasia1I/Anastasia1I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
