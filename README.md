@@ -1,5 +1,5 @@
+  ### Hi there 👋 i'm Anastasia and i'm QA Automation Engineer coding in Python, JavaScript and a bit of Java 
   ![sentiment-870x450](https://user-images.githubusercontent.com/106053124/171986413-92db32fa-3bb6-417e-a4de-a7633142704a.jpeg)
-### Hi there 👋 i'm Anastasia and i'm QA Automation Engineer coding in Python, JavaScript and a bit of Java 
 - Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile   and Waterfall and Scaled Agile Framework (SAFe).
 - Actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project.
 - Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End. 
